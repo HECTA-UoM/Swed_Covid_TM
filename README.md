@@ -31,7 +31,7 @@ BERT-topic vs LDA
   
   title = {Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method},
   
-  publisher = {arXiv},
+  publisher = {HealthNLP at IEEE-ICHI2023},
   
   year = {2023},
   
