@@ -14,7 +14,7 @@ More resources and meta-data on this project to be downloaded at \url{https://dr
 
 # Extended Work: Neural vs Statistical Topic Models
 BERT-topic vs LDA
-\url{https://www.researchgate.net/publication/371695994_Topic_Modelling_of_News_Articles_on_Covid19_Investigation_using_Statistical_and_Neural_Methods}
+\url{ https://www.researchgate.net/publication/371695994_Topic_Modelling_of_News_Articles_on_Covid19_Investigation_using_Statistical_and_Neural_Methods }
 
 
 
