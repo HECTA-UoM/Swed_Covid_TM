@@ -12,6 +12,9 @@ We hope this work can be an asset for grounding applications of topic modelling 
 
 More resources and meta-data on this project to be downloaded at \url{https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing}
 
+# Presented in HealthNLP2023 at IEEE-ICHI2023
+PPT slides https://github.com/HECTA-UoM/Swed_Covid_TM/blob/main/HealthNLP2023_TModel_slides.pdf 
+
 # Extended Work: Neural vs Statistical Topic Models
 BERT-topic vs LDA
 \url{ https://www.researchgate.net/publication/371695994_Topic_Modelling_of_News_Articles_on_Covid19_Investigation_using_Statistical_and_Neural_Methods } presented in Conference: HealTAC 2023: HEALTHCARE TEXT ANALYTICS CONFERENCE 2023 MANCHESTER, JUNE 14-16, 2023
