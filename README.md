@@ -12,6 +12,12 @@ We hope this work can be an asset for grounding applications of topic modelling 
 
 More resources and meta-data on this project to be downloaded at \url{https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing}
 
+# Extended Work: Neural vs Statistical Topic Models
+BERT-topic vs LDA
+\url{https://www.researchgate.net/publication/371695994_Topic_Modelling_of_News_Articles_on_Covid19_Investigation_using_Statistical_and_Neural_Methods}
+
+
+
 # Reference
 
 @misc{https://doi.org/10.48550/arxiv.2301.03029,
