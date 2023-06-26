@@ -34,6 +34,8 @@ More resources and meta-data on this project to be downloaded at \url{https://dr
 
 # Acknowledgement
 Softwares: 
-(BERT-topic) https://github.com/MaartenGr/BERTopic 
-(Gensim LDA) https://radimrehurek.com/gensim/models/ldamodel.html 
+(BERT-topic via Hao Li) https://github.com/MaartenGr/BERTopic 
+
+(Gensim LDA via Bernadeta) https://radimrehurek.com/gensim/models/ldamodel.html 
+
 Institutes: Uni Manchester and Uni Saarland and Uni Malta
