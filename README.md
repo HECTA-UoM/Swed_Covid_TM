@@ -24,22 +24,15 @@ BERT-topic vs LDA
 
 # Reference
 
-@misc{https://doi.org/10.48550/arxiv.2301.03029,
-  doi = {10.48550/ARXIV.2301.03029},
-  
-  url = {https://arxiv.org/abs/2301.03029},
-  
-  author = {Griciūtė, Bernadeta and Han, Lifeng and Nenadic, Goran},
-  
-  keywords = {Computation and Language (cs.CL), Social and Information Networks (cs.SI), FOS: Computer and information sciences, FOS: Computer and information sciences},
-  
-  title = {Topic Modelling of Swedish Newspaper Articles about Coronavirus: a Case Study using Latent Dirichlet Allocation Method},
-  
-  publisher = {HealthNLP at IEEE-ICHI2023},
-  
-  year = {2023},
-  
-  copyright = {Creative Commons Attribution Non Commercial Share Alike 4.0 International}
+Griciūtė, Bernadeta, Lifeng Han, and Goran Nenadic. "Topic modelling of swedish newspaper articles about coronavirus: a case study using latent dirichlet allocation method." 2023 IEEE 11th International Conference on Healthcare Informatics (ICHI). IEEE, 2023.
+
+@inproceedings{griciute2023topic,
+  title={Topic modelling of swedish newspaper articles about coronavirus: a case study using latent dirichlet allocation method},
+  author={Grici{\=u}t{\.e}, Bernadeta and Han, Lifeng and Nenadic, Goran},
+  booktitle={2023 IEEE 11th International Conference on Healthcare Informatics (ICHI)},
+  pages={627--636},
+  year={2023},
+  organization={IEEE}
 }
 
 # Acknowledgement
