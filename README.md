@@ -10,7 +10,7 @@ We hope this work can be an asset for grounding applications of topic modelling 
 
 \textbf{Keywords:} Latent Dirichlet Allocation (LDA); Topic Modelling; Coronavirus; Pandemics; Natural Language Understanding
 
-More resources and meta-data on this project to be downloaded at \url{https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing}
+More resources and meta-data on this project to be downloaded via [drive](https://drive.google.com/drive/folders/1jRwx7cjF8hMjy9OMA8aryzM5npVFlPyz?usp=sharing)
 
 # Presented in HealthNLP2023 at IEEE-ICHI2023
 PPT slides https://github.com/HECTA-UoM/Swed_Covid_TM/blob/main/HealthNLP2023_TModel_slides.pdf 
